@@ -1,15 +1,8 @@
 # cibertero
-O presente projeto de caráter independente tem como intento ser o ponto de partida para uma sociedade mais 
-igualitária,  no sentido humano, tecnológico e cientifico. A base para esta pesquisa é o projeto Vênus de Jacque Fresco, 
-que busca alcançar uma sociedade baseada em recursos, bem como utiliza o idioma Matriz denominado "Esperanto" , que 
-foi criado pelo Oftalmologista e filósofo Polonês, Ludwik Lejzer Zamenhof.
+Nesta pasta fica contido todos os projetos inseridos ao cibertero, alguns possuem suas próprias licenças de uso e devem ser respeitadas.
 
-This independent character design has the intent to be the starting point for a more egalitarian society, human, 
-technological and scientific sense. The basis for this research is Jacque Fresco's Venus Project, which seeks to 
-achieve a society based on resources and uses the so-called matrix language "Esperanto", which was created by 
-Ophthalmologist and philosopher Polish, L. L. Zamenhof.
+In this folder is contained all the projects inserted to the cybertero, some have their own licenses of use and must be respected.
 
-Tiu sendependa karaktero dezajno havas la intenco esti la deirpunkto por pli egaleca socio, homaj, 
-teknologia kaj scienca senco. La bazo por tiu esploro estas Jacque Fresco la Venuso Project, kiu serĉas 
-atingi socio bazita sur resursoj kaj uzas la tn matrico lingvo "Esperanto", kiu estis 
-kreita de okulisto kaj filozofo pola, L. L. Zamenhof.
+En esta carpeta quedan contenidos todos los proyectos insertados al cibertero, algunos poseen sus propias licencias de uso y deben ser respetadas.
+
+En ĉi tiu dosierujo enhavas ĉiujn projektojn enmetitajn al la cybertero, iuj havas siajn proprajn licencojn de uzo kaj devas esti respektataj.
