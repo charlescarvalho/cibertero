@@ -39,6 +39,7 @@ OU OUTRO TIPO DE RESPONSABILIDADE, DECORRENTE DE OU EM CONEXÃO COM O SOFTWARE
 OU O USO OU OUTRAS OPERAÇÕES NO SOFTWARE."
 
 --
+
 Por medio de la presente se otorga permiso, sin cargo, a cualquier persona que 
 obtenga una copia de este software y los archivos de documentación asociados 
 (el "Software"), para tratar con el Software sin restricciones, incluyendo sin 
