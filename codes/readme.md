@@ -1,15 +1,8 @@
 # cibertero
-O presente projeto de caráter independente tem como intento ser o ponto de partida para uma sociedade mais 
-igualitária,  no sentido humano, tecnológico e cientifico. A base para esta pesquisa é o projeto Vênus de Jacque Fresco, 
-que busca alcançar uma sociedade baseada em recursos, bem como utiliza o idioma Matriz denominado "Esperanto" , que 
-foi criado pelo Oftalmologista e filósofo Polonês, Ludwik Lejzer Zamenhof.
+Este projeto independente tem como objetivo ser um ponto de partida para uma sociedade mais igualitária em termos humanos, tecnológicos e científicos. Ele se baseia no Projeto Vênus de Jacque Fresco, que busca alcançar uma sociedade baseada em recursos e usa o idioma Matriz denominado "Esperanto", criado pelo oftalmologista e filósofo polonês Ludwik Lejzer Zamenhof.
 
-This independent character design has the intent to be the starting point for a more egalitarian society, human, 
-technological and scientific sense. The basis for this research is Jacque Fresco's Venus Project, which seeks to 
-achieve a society based on resources and uses the so-called matrix language "Esperanto", which was created by 
-Ophthalmologist and philosopher Polish, L. L. Zamenhof.
+This independent project aims to be a starting point for a more egalitarian society in terms of human, technological, and scientific advancements. It is based on Jacque Fresco's Venus Project, which aims to achieve a resource-based society and uses the Matrix language called "Esperanto", created by Polish ophthalmologist and philosopher Ludwik Lejzer Zamenhof.
 
-Tiu sendependa karaktero dezajno havas la intenco esti la deirpunkto por pli egaleca socio, homaj, 
-teknologia kaj scienca senco. La bazo por tiu esploro estas Jacque Fresco la Venuso Project, kiu serĉas 
-atingi socio bazita sur resursoj kaj uzas la tn matrico lingvo "Esperanto", kiu estis 
-kreita de okulisto kaj filozofo pola, L. L. Zamenhof.
+Este proyecto independiente tiene como objetivo ser un punto de partida para una sociedad más igualitaria en términos humanos, tecnológicos y científicos. Se basa en el Proyecto Venus de Jacque Fresco, que busca lograr una sociedad basada en recursos y utiliza el idioma Matriz llamado "Esperanto", creado por el oftalmólogo y filósofo polaco Ludwik Lejzer Zamenhof.
+
+Ĉi tiu sendependa projekto celas esti startopunkto por pli egalitara socio laŭ homaj, teknologiaj kaj sciencaj avanĝoj. Ĝi baziĝas sur la Venuso-projekto de Jacque Fresco, kiu celas atingi socion bazitan je rimedoj kaj uzas la Matrica lingvo nomita "Esperanto", kreita de la pola oftalmologo kaj filozofo Ludwik Lejzer Zamenhof.
